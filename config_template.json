@@ -1,0 +1,33 @@
+{
+  "ACCOUNT": {
+    "EXNESS_ACCOUNT_ID": "",
+    "EXNESS_PASSWORD": "",
+    "EXNESS_SERVER": "Exness-MT5Trial6",
+    "INITIAL_BALANCE": 500.0
+  },
+  "TRADING": {
+    "SYMBOLS": [
+      "EURUSDm",
+      "GBPUSDm",
+      "USDJPYm",
+      "GBPJPYm",
+      "AUDUSDm",
+      "USDCADm",
+      "USDCHFm"
+    ],
+    "MAX_RISK_PER_TRADE": 0.005,
+    "MAX_DAILY_RISK": 0.03,
+    "MAX_POSITIONS": 3,
+    "MIN_TRADE_SCORE": 8,
+    "SCAN_INTERVAL": 30
+  },
+  "NOTIFICATIONS": {
+    "TELEGRAM_BOT_TOKEN": "",
+    "TELEGRAM_CHAT_ID": ""
+  },
+  "ADVANCED": {
+    "MAX_SPREAD_PIPS": 2.5,
+    "ADX_THRESHOLD": 20,
+    "TRAILING_STOP_ATR_MULT": 1.2
+  }
+}

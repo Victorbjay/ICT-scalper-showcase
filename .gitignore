@@ -1,0 +1,25 @@
+# 🛡️ Showcase-Only Gitignore
+# This ensures only documentation is tracked. 
+# YOUR TRADING LOGIC REMAINS LOCAL.
+
+# 1. Ignore everything by default
+*
+
+# 2. Allow the Documentation folder and README
+!README.md
+!docs/
+!docs/**
+!config_template.json
+!.gitignore
+
+# 3. Explicitly block sensitive files (Double-check)
+.env
+config.json
+logs/
+dist/
+build/
+*.py
+*.pyc
+__pycache__/
+.pyarmor/
+ICT_Scalper_Client/
