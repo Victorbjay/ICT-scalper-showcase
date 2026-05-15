@@ -55,7 +55,7 @@ The bot is distributed as a protected executable using **PyArmor** obfuscation, 
 
 ## 📊 Performance & Roadmap
 - [**Project Roadmap**](docs/ROADMAP.md) — See our development journey and future goals.
-- [**Marketing Kit**](docs/MARKETING_KIT.md) — Ready-to-use posts for LinkedIn and Twitter.
+- [**Trade Case Studies**](docs/PERFORMANCE.md) — View logic breakdowns of our best setups.
 - **Trade Analysis** — Detailed ICT-reasoning recorded for every trade to enable professional audits.
 
 ---
