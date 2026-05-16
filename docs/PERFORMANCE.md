@@ -26,7 +26,7 @@ This document provides a deep dive into the bot's execution logic and successful
 15:10:42 | INFO | Trade Closed: TAKE PROFIT HIT (+57.1 pips)
 ```
 
-*(Add your MT5 screenshot here: `![GBPJPY Win](assets/gbpjpy_win.png)`) *
+*( `![GBPJPY Win](assets/gbpjpy_win.png)`)*
 
 ---
 

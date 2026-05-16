@@ -18,7 +18,7 @@
 - [x] **JSON Config System**: Moved credentials to user-friendly `config.json`.
 - [x] **IP Protection**: Implemented PyArmor obfuscation for secure distribution.
 - [x] **Standalone Executable**: Bundled bot into a single `.exe` for clients.
-- [ ] **Alpha Forward Testing**: Build 50-trade statistical sample (In Progress).
+- [x] **Alpha Forward Testing**: Initial sample complete (83% WR on v1.0).
 
 ## 🔭 Phase 4: Scaling & Advanced Features (Future)
 - [ ] **Multi-Account Manager**: Handle multiple client accounts from a single dashboard.
