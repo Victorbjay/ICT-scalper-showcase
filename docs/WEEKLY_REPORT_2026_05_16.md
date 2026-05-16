@@ -9,6 +9,8 @@ This week saw the successful deployment of the **SMC_FVG v1.0** engine across mu
 - **Net Pips**: +118.4 pips
 - **Profit Factor**: 2.45 (Institutional Quality)
 
+![MT5 Weekly Trade History](assets/trade-history.png)
+
 ---
 
 ## 🏆 Trade of the Week: GBPJPYm SELL (7.23 RR)

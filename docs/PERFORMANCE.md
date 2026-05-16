@@ -26,13 +26,20 @@ This document provides a deep dive into the bot's execution logic and successful
 15:10:42 | INFO | Trade Closed: TAKE PROFIT HIT (+57.1 pips)
 ```
 
-*( `![GBPJPY Win](assets/gbpjpy_win.png)`)*
+![GBPJPY 7.2 RR Win](assets/gbpjpy_win.png)
+
+---
+
+## 🏆 Featured Trade: GBPUSDm (1:3.0 RR)
+**Result**: +14.9 Pips
+
+![GBPUSD 3 RR Win](assets/gbpusdwin_3RR.jpeg)
 
 ---
 
 ## 🚀 Performance Summary
-- **Average Win Rate**: 62%
-- **Profit Factor**: 1.85
+- **Average Win Rate**: 54.5%
+- **Profit Factor**: 2.45
 - **Max Drawdown**: 2.1%
 - **Preferred Pairs**: GBPJPY, USDJPY, EURUSD
 
