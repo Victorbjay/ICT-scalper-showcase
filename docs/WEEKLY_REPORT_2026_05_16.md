@@ -10,6 +10,8 @@ This week marked the first full-cycle deployment of the **ICT/SMC Scalping Engin
 - **Net Pips Captured**: **+118.4 Pips**
 - **Profit Factor**: 2.45 (Institutional Benchmark: >1.6)
 
+![MT5 Weekly Trade History](assets/trade-history.png)
+
 ---
 
 ## 🏆 Trade of the Week: GBPJPYm SELL (7.23 RR)
