@@ -10,6 +10,8 @@
 !LICENSE
 !docs/
 !docs/**
+!docs/assets/*.png
+!docs/assets/*.jpg
 !config_template.json
 !.gitignore
 
