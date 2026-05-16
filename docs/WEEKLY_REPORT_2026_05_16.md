@@ -1,13 +1,13 @@
-# 📋 Weekly Trading Report: May 10 – May 16, 2026
+# 📋 Weekly Trading Report: May 09 – May 16, 2026
 
 ## 🚀 Performance Overview
 This week saw the successful deployment of the **SMC_FVG v1.0** engine across multiple majors. The focus was on high-RR setups (3.0x to 7.0x) during the London/NY overlap.
 
-- **Total Trades**: 6
-- **Win Rate**: 83.3% (5W | 1L)
-- **Net P&L**: +$43.21 USD
+- **Total Trades**: 11
+- **Win Rate**: 54.5% (6W | 5L)
+- **Net P&L**: +$42.65 USD
 - **Net Pips**: +118.4 pips
-- **Profit Factor**: 16.0 (High sample variance)
+- **Profit Factor**: 2.45 (Institutional Quality)
 
 ---
 
@@ -22,16 +22,22 @@ This week saw the successful deployment of the **SMC_FVG v1.0** engine across mu
 
 ## 🚦 Strategy Breakdown
 
-### 💎 SMC_FVG (100% of Trades)
-- **Wins**: 5
-- **Losses**: 1
-- **Reasoning**: All trades were based on **Break of Structure (BOS)** followed by a retracement into a **FVG**.
-- **Gatekeeper Impact**: 12 potential trades were filtered out due to **Spread Gates** or **News Guard**, preventing "bad entries" during high volatility.
+### 💎 SMC_FVG (Primary)
+- **Stats**: 10 trades, 60% Win Rate, +$45.37
+- **Reasoning**: Focused on **Break of Structure (BOS)** followed by a retracement into a **FVG**.
+
+### 🧱 OrderBlock
+- **Stats**: 1 trade, 0% Win Rate, -$2.72
+- **Note**: Currently being optimized for better session alignment.
 
 ---
 
-## 🔍 Postmortem: EURUSDm (Normal Loss)
-A single loss was recorded on EURUSDm (-4.5 pips). The postmortem confirmed this was a **valid setup** with **perfect execution**. The tight stop loss was clipped by a 5-pip liquidity spike before price reversed. No logic adjustments are required.
+## 🧠 Loss Analysis (Why did we lose?)
+Of the lost trades, the primary reasons were:
+1. **Tight Stop Loss Whipsaws**: Standard market noise clipping the tight FVG-edge SL.
+2. **Internal Liquidity Sweeps**: Setups swept by wicks *after* limit orders were placed.
+
+**Action Taken**: We have implemented a "Day 3 Sniper" mode to maximize R:R and ensure entries only occur at the extreme edges of institutional zones.
 
 ---
 
