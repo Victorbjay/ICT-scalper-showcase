@@ -31,6 +31,24 @@ The bot is distributed as a protected executable using **PyArmor** obfuscation, 
 
 ---
 
+## 🧪 Beta Tester Setup Guide (Executable Version)
+
+If you have been selected as a beta tester and received the `ICT_Scalper_Pro.exe` file, follow these steps to get started:
+
+1. **Preparation**: Place the `.exe` file in a dedicated folder on your Windows machine or VPS.
+2. **Configuration**: Create a `config.json` file in the same folder.
+3. **License Key**: You MUST add your unique license key to the config file like this:
+   ```json
+   "LICENSING": {
+       "LICENSE_KEY": "YOUR-UNIQUE-KEY-HERE"
+   }
+   ```
+4. **Run**: Double-click `ICT_Scalper_Pro.exe`. The bot will verify your license with our servers and begin trading.
+
+> **Interested in testing?** Send your application request to the email listed on my GitHub profile!
+
+---
+
 ## 🛠️ Quick Start (Developer Mode)
 
 1. **Clone the repo**:
