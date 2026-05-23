@@ -54,7 +54,8 @@ The bot is distributed as a protected executable using **PyArmor** obfuscation, 
 ---
 
 ## 📊 Performance & Roadmap
-- [**Weekly Performance Report**](docs/WEEKLY_REPORT_2026_05_16.md) — 54.5% Win Rate (May 09-16).
+- [**Weekly Performance Report (May 16-23)**](docs/WEEKLY_REPORT_2026_05_23.md) — 22.2% Win Rate (+$5.63 PnL).
+- [**Weekly Performance Report (May 09-16)**](docs/WEEKLY_REPORT_2026_05_16.md) — 54.5% Win Rate.
 - [**Project Roadmap**](docs/ROADMAP.md) — See our development journey and future goals.
 - [**Trade Case Studies**](docs/PERFORMANCE.md) — View logic breakdowns of our best setups.
 - **Trade Analysis** — Detailed ICT-reasoning recorded for every trade to enable professional audits.
