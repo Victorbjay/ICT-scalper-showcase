@@ -54,6 +54,7 @@ The bot is distributed as a protected executable using **PyArmor** obfuscation, 
 ---
 
 ## 📊 Performance & Roadmap
+- [**V2 AI/ML & HTF Integration Guide**](docs/AI_V2_INTEGRATION.md) — Documentation on our Multi-Timeframe and AI Probability Gatekeeper.
 - [**Weekly Performance Report (May 16-23)**](docs/WEEKLY_REPORT_2026_05_23.md) — 22.2% Win Rate (+$5.63 PnL).
 - [**Weekly Performance Report (May 09-16)**](docs/WEEKLY_REPORT_2026_05_16.md) — 54.5% Win Rate.
 - [**Project Roadmap**](docs/ROADMAP.md) — See our development journey and future goals.

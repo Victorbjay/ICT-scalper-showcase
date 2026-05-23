@@ -26,3 +26,5 @@ build/
 __pycache__/
 .pyarmor/
 ICT_Scalper_Client/docs/MARKETING_KIT.md
+docs/MARKETING_KIT.md
+docs/ARCHITECTURE_MEMORY.md
